@@ -192,4 +192,3 @@ To run tests, use the following command:
 
 ```bash
 php artisan test
-```bash
