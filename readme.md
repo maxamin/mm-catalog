@@ -172,7 +172,7 @@ To use the MM Catalog application, follow these steps:
 2. Organize items into categories.
 3. Search and manage items using the provided tools.
 
-# Features included
+# Features included (GPT Analysis for routes)
 
 ![Image 2](./assets/2.png)
 ![Image 3](./assets/3.png)
