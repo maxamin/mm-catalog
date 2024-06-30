@@ -174,7 +174,6 @@ To use the MM Catalog application, follow these steps:
 
 # Features included
 
-![Image 1](./assets/1.png)
 ![Image 2](./assets/2.png)
 ![Image 3](./assets/3.png)
 ![Image 4](./assets/4.png)
